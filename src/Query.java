@@ -34,6 +34,7 @@ public class Query {
                     "SET GRADE_REPORT.Grade = 'B' " +
                     "WHERE GRADE_REPORT.Student_number = '17' AND GRADE_REPORT.Section_identifier = 119;";
             stmt.execute(changeGrade);
+            System.out.println("The GRADE_REPORT has been updated\n");
 
 
             /**Define a query to retrieve the transcript records of the student number '8'. Transcript includes the
