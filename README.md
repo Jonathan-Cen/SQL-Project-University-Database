@@ -1,4 +1,4 @@
-# SQL_Project-University_Database
+# SQL Project University Database
 A SQL project that uses JDBC and Microsoft SQL Server
 
 ### UNIVERSITY database schema:
